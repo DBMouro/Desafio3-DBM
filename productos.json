@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "titulo": "Manzanas",
+    "descripcion": "Frescas y nutritivas",
+    "precio": 1.99,
+    "thumbnail": "#imagen",
+    "code": "FRU001",
+    "stock": 100
+  },
+  {
+    "id": 2,
+    "titulo": "Arroz integral",
+    "descripcion": "Grano entero para una alimentación saludable",
+    "precio": 2.49,
+    "thumbnail": "#imagen",
+    "code": "GRN002",
+    "stock": 50
+  },
+  {
+    "id": 3,
+    "titulo": "Leche deslactosada",
+    "descripcion": "Ideal para personas intolerantes a la lactosa",
+    "precio": 3.99,
+    "thumbnail": "#imagen",
+    "code": "DAR003",
+    "stock": 75
+  },
+  {
+    "id": 4,
+    "titulo": "Pollo fresco",
+    "descripcion": "Pechugas de pollo sin hueso",
+    "precio": 5.99,
+    "thumbnail": "#imagen",
+    "code": "MTP004",
+    "stock": 30
+  },
+  {
+    "id": 5,
+    "titulo": "Tomates enlatados",
+    "descripcion": "Tomates pelados y listos para cocinar",
+    "precio": 1.49,
+    "thumbnail": "#imagen",
+    "code": "CND005",
+    "stock": 40
+  },
+  {
+    "id": 6,
+    "titulo": "Pan integral",
+    "descripcion": "Pan saludable y rico en fibra",
+    "precio": 2.99,
+    "thumbnail": "#imagen",
+    "code": "BRE006",
+    "stock": 60
+  },
+  {
+    "id": 7,
+    "titulo": "Agua embotellada",
+    "descripcion": "Agua purificada en botellas",
+    "precio": 0.99,
+    "thumbnail": "#imagen",
+    "code": "BEB007",
+    "stock": 80
+  },
+  {
+    "id": 8,
+    "titulo": "Detergente para ropa",
+    "descripcion": "Limpieza efectiva para tu ropa",
+    "precio": 4.49,
+    "thumbnail": "#imagen",
+    "code": "LIM008",
+    "stock": 25
+  },
+  {
+    "id": 9,
+    "titulo": "Huevos",
+    "descripcion": "Docena de huevos frescos",
+    "precio": 2.79,
+    "thumbnail": "#imagen",
+    "code": "HUE009",
+    "stock": 50
+  },
+  {
+    "id": 10,
+    "titulo": "Cereal de avena",
+    "descripcion": "Avena integral para un desayuno saludable",
+    "precio": 3.29,
+    "thumbnail": "#imagen",
+    "code": "CER010",
+    "stock": 35
+  }
+]
